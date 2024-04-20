@@ -34,7 +34,6 @@ Here is the datasets we used  - [Link](https://github.com/aditishraq/Azure-Olymp
 
 ## Setup
 
-**WARNING: You will be charged for all the infra setup. You can avail 300$ in credit by creating a new account on Azure.**
 ### Pre-requisites
 
 If you already have a Azure account, you can skip the pre-requisite steps.
